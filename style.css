@@ -1,0 +1,46 @@
+.msg-container {
+    width: 99%;
+    background-color: #baf9d5;
+    margin: 10px;
+    height: 500px;
+}
+
+.chat-container {
+    width: 99%;
+    background-color: #4b8966;
+    margin: 10px;
+    margin-top: -10px;
+    height: 220px;
+}
+
+
+
+#message {
+    width: 70%;
+    height: 100px;
+
+}
+
+.send-message-button {
+    background-color: white;
+    color: black;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.alias-container {
+    display: flex;
+    width: 600px;
+
+}
+
+input {
+    width: 50%;
+    height: 31px;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+
+h3 {
+    color: white;
+}
